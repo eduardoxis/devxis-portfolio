@@ -1,1 +1,1 @@
-{"firestore":{"rules":"firebase/firestore.rules"},"storage":{"rules":"firebase/storage.rules"},"hosting":{"public":".","ignore":["firebase.json","**/.*","**/node_modules/**"]}}
+{"firestore":{"rules":"firebase/firestore.rules"},"hosting":{"public":".","ignore":["firebase.json","**/.*","**/node_modules/**"]}}
